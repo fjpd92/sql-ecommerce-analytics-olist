@@ -1,17 +1,17 @@
 # sql-ecommerce-analytics-olist
-Complete SQL &amp; BI analytics project using the Olist e-commerce dataset
 
-This project analyses the Olist e-commerce dataset using SQL and BI tools.
-The goal is to practise and show skills in SQL, data modelling, and dashboarding for Data Analyst, BI Developer, and Analytics Engineer roles.
+ **Description**
 
-🎯 Objectives
+A complete SQL &amp; BI analytics project using the Olist e-commerce dataset
 
-	Explore and clean raw e-commerce data
+This project analyses the Olist e-commerce dataset using SQL and BI tools to support strategic business decisions 
 
-	Build a simple analytical model (fact + dimensions)
+Link to the dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Create KPI queries for revenue, customers, products, and delivery performance
+🎯 **Objectives**
 
-Develop a BI dashboard (Tableau / Looker Studio / Power BI)
-
-Document key decisions and methods
+- Data exploration and cleaning in SQL
+- Star schema modelling (fact + dimensions)
+- KPI development for revenue, customers, products, and delivery
+- BI dashboard (Tableau / Looker Studio / Power BI)
+- Clear documentation of logic and decisions
